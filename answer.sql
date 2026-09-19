@@ -15,9 +15,9 @@ CREATE TABLE student (
 -- Question 2
 INSERT INTO student (id, fullName, age)
 VALUES
-(1, 'John Kamau', 19),
-(2, 'Mary Wanjiku', 18),
-(3, 'David Otieno', 21);
+(1, 'John Kasoma', 19),
+(2, 'Mary Nakatte', 18),
+(3, 'Davidi Mutebi', 21);
 
 -- Question 3
 UPDATE student
